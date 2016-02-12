@@ -233,6 +233,7 @@ body > footer {
   }
 }
 
+/*Media queries kan je beter met EM doen, meer uitleg: http://blog.cloudfour.com/the-ems-have-it-proportional-media-queries-ftw/ */
 @media (max-width: 680px) {
 	body > main {
 		padding: 0;
